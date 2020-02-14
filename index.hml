@@ -1,0 +1,623 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8 ]><html prefix="og: http://ogp.me/ns#" class="ie8 ltr" lang="en-gb"> <![endif]-->
+<!--[if IE 9 ]><html prefix="og: http://ogp.me/ns#" class="ie9 ltr" lang="en-gb"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html prefix="og: http://ogp.me/ns#" class="ltr" lang="en-gb"><!--<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<head>
+  <base href="http://www.amniltech.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Amnil Technologies Pvt. Ltd. | Sharepoint, Web Solutions, Web Development, Web Design, Software Development, Graphic Designs, Mobile Application</title>
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/zt_bravi/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/media/modals/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/media/com_zo2framework/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/media/com_zo2framework/css/bootstrap-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/template.responsive.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/typo.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/menu.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/system/system.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/css3.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/colors_box.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/scolors/scolors2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/plugins/system/shortcodes/assets/css/shortcodes.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/modules/mod_zt_metro_scroller/assets/css/zt_metro.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/modules/mod_zt_headline/assets/css/ztonebyone/animate.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/ztonebyone/onebyone.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.amniltech.com/templates/zt_bravi/css/ztonebyone/responsive.css" type="text/css" />
+  <style type="text/css">
+
+#bd {
+	color: #484848;
+	background-color: #f5f5f5;
+}
+#bd a {
+	color: #D83A32;
+}
+
+div#zt-header {
+	color: ;
+	background-color: #ffffff;
+}
+div#zt-slideshow {
+	color: ;
+	background-color: ;
+}
+div#zt-userwrap7 {
+	color: #ffffff;
+	background-color: #D83A32;
+}
+div#zt-userwrap7 a {
+	color: #ffffff;
+}
+div#zt-userwrap7 h3.moduletitle {
+	color: #ffffff;
+}
+div#zt-footer {
+	color: #ffffff;
+	background-color: #D83A32;
+}
+div#zt-footer a {
+	color: #ffffff;
+}
+div#zt-footer h3.moduletitle {
+	color: #2F2F2F;
+}
+
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.7&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/modals/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/modals/js/jquery.colorbox-min.js" type="text/javascript"></script>
+  <script src="/media/modals/js/script.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/media/com_zo2framework/js/jquery.min.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/media/com_zo2framework/js/bootstrap.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/media/com_zo2framework/js/jquery.cookies.2.2.0.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/media/com_zo2framework/js/zo2-uncompressed.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/plugins/system/shortcodes/assets/js/shortcodes.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/modules/mod_zt_metro_scroller/assets/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/modules/mod_zt_metro_scroller/assets/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/modules/mod_zt_metro_scroller/assets/js/jquery.mCustomScrollbar.min.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/modules/mod_zt_headline/assets/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/modules/mod_zt_headline/assets/js/jquery.onebyone.js" type="text/javascript"></script>
+  <script src="http://www.amniltech.com/modules/mod_zt_headline/assets/js/jquery.touchwipe.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+var modal_class = 'modal_link'; var modal_defaults = { opacity: '0.8',maxWidth: '95%',maxHeight: '95%',current: '{current} / {total}',previous: 'previous',next: 'next',close: 'close',xhrError: 'This content failed to load.',imgError: 'This image failed to load.' };
+window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});
+  </script>
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"><link href="http://www.amniltech.com/templates/zt_bravi/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" /><link href='http://fonts.googleapis.com/css?family=Open%20Sans&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'><style type="text/css">
+                    body,
+                    #menusys_mega .news-events,
+                    #menusys_mega .menu-desc,
+                    #menusys_mega .megacol ul li a .menu-title{ font-family:  Open Sans; }
+                </style><link href='http://fonts.googleapis.com/css?family=Open%20Sans&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'><style type="text/css">
+                    .drillmenu li a span.menusys_name,
+                    #menusys_mega .menu-title { font-family:  Open Sans; }
+                </style><link href='http://fonts.googleapis.com/css?family=Open%20Sans&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'><style type="text/css">
+                    h1, h2, h3, h4, h5, h6 { font-family:  Open Sans; }
+                </style><script language="javascript" type="text/javascript">
+$ZO2(document).ready(function() {
+  /* Mega Menu script block */
+    var megas = $ZO2('div[class="menusub_mega"]');
+  var _tmp  = Array();
+  
+  $ZO2.each(megas, function(key, item) {
+    var id = $ZO2(item).attr('id').split("_");
+    if(id[2] != null) {
+      var smart = "_" + id[1] + "_" + id[2];
+      if($ZO2.inArray(smart, _tmp)) {
+        $ZO2.merge(_tmp, Array(smart));
+        ZTMenu(smart, "megamenu_close", 'show', 
+        '350', 
+        'hide', 
+        '350',
+        'ltr');
+      }
+    }
+  });
+  
+  /* Add/remove class hover when mouse enter/mouse leave */
+  $ZO2.each($ZO2('ul#menusys_mega li'), function(i, item) {
+    $ZO2(item).mouseenter(function() {
+      $ZO2(item).addClass('hover');
+    }).mouseleave(function() {
+      $ZO2(item).removeClass('hover');
+    });
+  });
+    
+  /* Fancy Menu script block */
+    
+  /* Accordion menu */
+  $ZO2(document).ready(function() {
+    $ZO2("#zo2-drilldown-menu").mtAccordionMenu({
+      accordion:true,
+      speed: 500,
+      closedSign: 'collapse',
+      openedSign: 'expand',
+      mouseType: 0,
+      easing: 'easeInOutBack'
+    });
+  });
+});
+</script>
+<!-- Echo Header Script -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1411638768942885');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1411638768942885&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script>
+  fbq('track', 'ViewContent');
+</script>
+
+</head>
+<body id="bd" class="fs12 ltr clearfix  home pattern15">
+  <div id="zt-wrapper">
+    <div id="zt-wrapper-inner">
+      
+      <!--Header-->
+      <div id="zt-header" class="clearfix  pattern0">
+        <div class="container">
+                              <div id="zt-header-inner" class="row-fluid">
+                        <!-- Logo -->
+                          <a  id="zt-logo-image"  class="span3" href="http://www.amniltech.com/" title="AMNIL Technologies"><img src="/images/zt_bravi/images/logos.png" alt="AMNIL Technologies" /></a>
+                                    <!-- #Logo -->
+                        <!--Mainmenu-->
+                        <div id="zt-mainmenu" class="span9 visible-desktop pull-right" >
+                            <div id="zt-mainmenu-inner" class="row-fluid">
+                                <div class="span12 visible-desktop"><div class="menusys_mega"><ul id="menusys_mega"><li class="first-item item active"><a href="/"  class=' active' id="menusys435"  title="Home"><span class="no-image"><span class="menu-title">Home</span></span></a></li><li class="item"><a href="/about-us"  class=' item' id="menusys850"  title="About Us"><span class="no-image"><span class="menu-title">About Us</span></span></a></li><li class="item"><a href="/products"  class=' item' id="menusys861"  title="Products"><span class="no-image"><span class="menu-title">Products</span></span></a></li><li id="menu-813" class="item hasChild"><a href="#"  class=' item' id="menusys813"  title="Works"><span class="no-image"><span class="menu-title">Works</span></span></a><div id="menu-813_menusub_sub0" class="menusub_mega"><div id="menu-813-subwap" class="submenu-wrap" style="width:420px"><div class="subwraptop"><div class="subwraptop-left"></div><div class="subwraptop-right"></div></div><div class="subwrapcenter-left"><div class="subwrapcenter-right"><div class="subwrapcenter" style="width:400px"><div class="megacol column1" style="width:200px"><div class="mega-group"><a href="#"  class=' item' id="menusys817"  title="Development"><span class="no-image"><span class="menu-title">Development</span></span></a></div><div id="menu-817-subwap" class="submenu-wrap" style="width:200px"><div class="megacol column1" style="width:200px"><ul class="mega-ul ul"><li class="mega-li li first-item"><a href="/works/development/mobile-application"  class=' item' id="menusys818"  title="Mobile Application"><span class="no-image"><span class="menu-title">Mobile Application</span></span></a></li><li class="mega-li li"><a href="/works/development/desktop-application"  class=' item' id="menusys819"  title="Desktop Application"><span class="no-image"><span class="menu-title">Desktop Application</span></span></a></li><li class="mega-li li last-item"><a href="/works/development/websites-and-applications"  class=' item' id="menusys820"  title="Websites & Applications"><span class="no-image"><span class="menu-title">Websites & Applications</span></span></a></li></ul></div></div></div></div></div></div><div class="subwrapbottom"><div class="subwrapbottom-left"></div><div class="subwrapbottom-right"></div></div></div></div></li><li class="item"><a href="/clientele"  class=' item' id="menusys821"  title="Clientele"><span class="no-image"><span class="menu-title">Clientele</span></span></a></li><li class="item"><a href="/join-us"  class=' item' id="menusys851"  title="Join Us"><span class="no-image"><span class="menu-title">Join Us</span></span></a></li><li class="last-item item"><a href="/get-in-touch"  class=' item' id="menusys822"  title="Get In Touch"><span class="no-image"><span class="menu-title">Get In Touch</span></span></a></li></ul></div></div>                            </div>
+                        </div>
+                        <!--#Mainmenu-->
+                        <a class="btn-navbar hidden-desktop collapsed" id="mobile-button" data-toggle="collapse" data-target=".menusys_drill"></a>
+            <!--Drill Menu-->
+            <div class="zt-drillmenu-inner hidden-desktop">
+              <div class="navbar">
+                <div class="menusys_drill collapse"><ul id="zo2-drilldown-menu" class="nav-drilldown"><li class="first-item item active"><a href="/"  class=' active' id="menusys435_drill" title="Home"><span class="menusys_name">Home</span></a></li><li class="item"><a href="/about-us"  class=' item' id="menusys850_drill" title="About Us"><span class="menusys_name">About Us</span></a></li><li class="item"><a href="/products"  class=' item' id="menusys861_drill" title="Products"><span class="menusys_name">Products</span></a></li><li class="item hasChild"><a href="#"  class=' item' id="menusys813_drill" title="Works"><span class="menusys_name">Works</span></a><ul class="detail-parent"><li class="first-item item hasChild"><a href="#"  class=' item' id="menusys817_drill" title="Development"><span class="menusys_name">Development</span></a><ul class="detail-parent"><li class="first-item item"><a href="/works/development/mobile-application"  class=' item' id="menusys818_drill" title="Mobile Application"><span class="menusys_name">Mobile Application</span></a></li><li class="item"><a href="/works/development/desktop-application"  class=' item' id="menusys819_drill" title="Desktop Application"><span class="menusys_name">Desktop Application</span></a></li><li class="last-item item"><a href="/works/development/websites-and-applications"  class=' item' id="menusys820_drill" title="Websites & Applications"><span class="menusys_name">Websites & Applications</span></a></li></ul></li></ul></li><li class="item"><a href="/clientele"  class=' item' id="menusys821_drill" title="Clientele"><span class="menusys_name">Clientele</span></a></li><li class="item"><a href="/join-us"  class=' item' id="menusys851_drill" title="Join Us"><span class="menusys_name">Join Us</span></a></li><li class="last-item item"><a href="/get-in-touch"  class=' item' id="menusys822_drill" title="Get In Touch"><span class="menusys_name">Get In Touch</span></a></li></ul></div>              </div>
+              <div class="clearfix"></div>
+            </div>
+            <!--#Drill Menu-->
+          </div>
+        </div>
+      </div>
+      <!--#Header-->
+            <!--Slideshow-->
+                        <div id="zt-slideshow" class="clearfix pattern6">
+                <div class="container">
+                    <div id="wrapper145" class="wrapper">
+		<div id="zt-onebyone145" class="zt-onebyone">
+			<div class="loading"></div>
+						<div class="oneByOne_item" style="display:none; width: 1170px; height: 485px;">
+				<img alt="Customize Application Development"  class="bigImage"  src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/slideshow/custom_app_dev.png&amp;h=485&amp;w=1170" />
+                                <h2 class="container slide2Txt1 hidden-phone" ><a title="Customize Application Development" href="#">Customize Application Development</a></h2>
+                                                <div class="container slide2Txt2 hidden-phone" ><p>Get an edge with custom app development</p></div>
+                                			</div>	 
+						<div class="oneByOne_item" style="display:none; width: 1170px; height: 485px;">
+				<img alt="Website Designing , Online Marketing & Mobile App Development "  class="bigImage"  src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/slideshow/slide-3.png&amp;h=485&amp;w=1170" />
+                                <h2 class="container slide2Txt1 hidden-phone" ><a title="Website Designing , Online Marketing & Mobile App Development " href="#">Website Designing , Online Marketing & Mobile App Development </a></h2>
+                                                <div class="container slide2Txt2 hidden-phone" ><p>Aesthetically designed, Brilliantly engineered.</p></div>
+                                			</div>	 
+						<div class="oneByOne_item" style="display:none; width: 1170px; height: 485px;">
+				<img alt="Creative"  class="bigImage"  src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/slideshow/slide-2.png&amp;h=485&amp;w=1170" />
+                                <h2 class="container slide2Txt1 hidden-phone" ><a title="Creative" href="/">Creative</a></h2>
+                                                <div class="container slide2Txt2 hidden-phone" ><p>Dedication, Hard work and Unremitting devotion to the thing you want to see happen.</p></div>
+                                			</div>	 
+						<div class="oneByOne_item" style="display:none; width: 1170px; height: 485px;">
+				<img alt="Consultation"  class="bigImage"  src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/slideshow/consultation.png&amp;h=485&amp;w=1170" />
+                                <h2 class="container slide2Txt1 hidden-phone" ><a title="Consultation" href="#">Consultation</a></h2>
+                                                <div class="container slide2Txt2 hidden-phone" ><p>We will show the way to success.</p></div>
+                                			</div>	 
+					</div> 
+	</div> 
+	<script type="text/javascript">
+	var $jq = jQuery.noConflict();
+	$jq(document).ready(function() {
+		var w = $jq('#wrapper145').width();
+		$jq('#zt-onebyone145 .loading').css({'width':w});
+	});
+	$jq(document).ready(function() {  
+		var $slider = $jq('#zt-onebyone145');
+		$jq('.loading', $slider).animate({opacity: 0}, 500, function(){
+			$jq('.loading', $slider).remove();  
+			$slider.find('.oneByOne_item').css('display', 'block'); 
+			$slider.oneByOne({
+				className: 'oneByOne1',	  
+				width: 1170,
+				height: 485,
+				easeType: 'random',
+				pauseByHover: true, 
+				slideShowDelay: 5000, 
+				showButton: true,
+				slideShow: true,
+				responsive: true,
+				minWidth: 480,
+				autoHideButton: true,
+				showArrow: true			});   
+			resize(); 
+		});  
+				
+		var wn = 1170,
+		hn = 485;
+		var resize = function (){ 
+			var w = $jq('#wrapper145').width(),
+				h = $jq('#wrapper145').height();
+			if(w <= wn){ 
+				$jq('#wrapper145 .oneByOne1').css({'width':w, 'height':h});
+				$jq('#wrapper145 .oneByOne_item').css({'width':w, 'height':h}); 
+			}else{
+				$jq('#wrapper145 .oneByOne1').css({'width':wn, 'height':hn});
+				$jq('#wrapper145 .oneByOne_item').css({'width':wn, 'height':hn}); 
+			} 
+		} 
+		$jq(window).bind("resize", function () {
+			resize();
+		});  
+		resize();
+	});
+	</script>  
+
+                </div>
+            </div>
+                        <!--#Slideshow-->
+                  <!--Metro slide-->
+      <div id="zt-metro-slide" class="clearfix">
+        <div class="container">
+                    
+
+<div class="custom"  >
+	<div class="newhighlight">
+<h2>the key features</h2>
+<p>We design and develop custom applications &amp; websites</p>
+</div></div>
+<div id="zt_metro_scroll212" class="content container">
+    <div class="images_container">
+                                <div class="scroll-box group1" style="float: left; width: 724px;">
+                                            <div class="scroll-item" style="float: left; width: 358px;">
+                                <img alt="The Hungry Buddha" src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/metroscroller/hungry.jpg&amp;w=358"/>
+                                <div class="description" style="background-color: #1abc9c;">
+                                    <h3><a href="/">The Hungry Buddha</a></h3>
+                                    <p></p>
+                                                                        <a class="readmore" href="/">Read more</a>
+                                </div>
+                            </div>
+                                                    <div class="scroll-item" style="float: left; width: 358px;">
+                                <img alt="New Haweli" src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/metroscroller/haweli.jpg&amp;w=358"/>
+                                <div class="description" style="background-color: #2980b9;">
+                                    <h3><a href="/">New Haweli</a></h3>
+                                    <p></p>
+                                                                        <a class="readmore" href="/">Read more</a>
+                                </div>
+                            </div>
+                                                    <div class="scroll-item" style="float: left; width: 720px;">
+                                <img alt="Branding" src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/metroscroller/brandingmix-720x260.jpg&amp;w=720"/>
+                                <div class="description" style="background-color: #27ae60;">
+                                    <h3><a href="/">Branding</a></h3>
+                                    <p></p>
+                                                                        <a class="readmore" href="/">Read more</a>
+                                </div>
+                            </div>
+                                    </div>
+                                <div class="scroll-box group2" style="float: left; width: 724px;">
+                                            <div class="scroll-item" style="float: left; width: 720px;">
+                                <img alt="Fcube" src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/metroscroller/fcube.jpg&amp;w=720"/>
+                                <div class="description" style="background-color: #27ae60;">
+                                    <h3><a href="http://amniltech.com/works/development/websites-and-applications/item/71-fcube-cinemas">Fcube</a></h3>
+                                    <p>FCube Cinemas, located at the heart of upcoming and bustling town of Chabahil, is the first international standard multiplex in Nepal launched by KL Cinema Pvt. Ltd. As the first of its kind in Nepal, FCube faced a unique challenge of operating a technological system without the benefit of experience from its predecessors</p>
+                                                                        <a class="readmore" href="http://amniltech.com/works/development/websites-and-applications/item/71-fcube-cinemas">Read more</a>
+                                </div>
+                            </div>
+                                                    <div class="scroll-item" style="float: left; width: 358px;">
+                                <img alt="AMTIX" src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/metroscroller/amtix-358x260.jpg&amp;w=358"/>
+                                <div class="description" style="background-color: #f39c12;">
+                                    <h3><a href="http://amniltech.com/products">AMTIX</a></h3>
+                                    <p>AMTIX is a first of its kind theatre ticketing system</p>
+                                                                        <a class="readmore" href="http://amniltech.com/products">Read more</a>
+                                </div>
+                            </div>
+                                                    <div class="scroll-item" style="float: left; width: 358px;">
+                                <img alt="Website" src="http://www.amniltech.com/modules/mod_zt_headline/timthumb.php?src=http://www.amniltech.com/images/metroscroller/nic.jpg&amp;w=358"/>
+                                <div class="description" style="background-color: #8e44ad;">
+                                    <h3><a href="http://www.nicasiabank.com">Website</a></h3>
+                                    <p>NIC ASIA Bank is one of the largest private sector commercial banks in the country</p>
+                                                                        <a class="readmore" href="http://www.nicasiabank.com">Read more</a>
+                                </div>
+                            </div>
+                                    </div>
+            </div>
+</div>
+<script>
+    $jqs(document).ready(function($){
+        $("#zt_metro_scroll212").mCustomScrollbar({
+            horizontalScroll:true, 
+            advanced:{
+                autoExpandHorizontalScroll:true
+            }
+        });
+    });
+</script>
+        </div>
+      </div>
+      <!--#Metro slide-->
+                        <!-- ZT Userwrap2 -->
+                  <!-- #ZT Userwrap2 -->
+            <!-- ZT Userwrap3 -->
+                  <!-- #ZT Userwrap3 -->
+                  <!--Main-->
+                  <!-- ZT Userwrap6 -->
+                  <!-- #ZT Userwrap6 -->
+            <!-- ZT Userwrap7 -->
+            <div id="zt-userwrap7" class="clearfix   pattern0">
+        <div class="container">
+          <div id="zt-userwrap7-inner" class="row-fluid">
+            <div id="zt-userwrap7-inner2">
+                                              <div id="zt-position-17" class="span3">
+                  <div class="zt-box-inside">
+                    		<div class="moduletable  zt-icon-link">
+			<div class="omodule">
+				<div class="cmodule">
+											<h3 class="moduletitle"><span>Links</span></h3>
+										<div class="modulecontent">
+						
+<ul class="menu">
+<li id="item-868" class="first"><a href="http://www.amniltech.com/works/design/branding" ><span>Branding</span></a></li><li id="item-869"><a href="http://www.amniltech.com/works/design/advertisment" ><span>Advertisement</span></a></li><li id="item-870"><a href="http://www.amniltech.com/works/design/advertisment" ><span>Print Media</span></a></li><li id="item-871"><a href="http://www.amniltech.com/works/development/mobile-application" ><span>Mobile Application</span></a></li><li id="item-872"><a href="http://www.amniltech.com/works/development/desktop-application" ><span>Desktop Application</span></a></li><li id="item-873"><a href="http://www.amniltech.com/works/development/websites-and-applications" ><span>Websites &amp; Applications</span></a></li><li id="item-877" class="last"><a href="/privacy-policy" ><span>Privacy &amp; Policy</span></a></li></ul>					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		
+	
+                  </div>
+                </div>
+                                                              <div id="zt-position-18" class="span3">
+                  <div class="zt-box-inside">
+                    		<div class="moduletable  zt-icon-mail">
+			<div class="omodule">
+				<div class="cmodule">
+											<h3 class="moduletitle"><span>About Us</span></h3>
+										<div class="modulecontent">
+						
+
+<div class="custom"  >
+	<p>Amnil Technologies was founded by three young tech entrepreneurs to drive the rapid digitalization of Nepalese market with cutting edge technological solutions. A decade later, we have become the premiere company that specializes in 360 degrees of technological support to both our national and international clients. The key to our sustained growth is an exceptional balance between serving our clients and cultivating an innovative company culture. <a href="/about-us">Read More</a></p></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		
+	
+                  </div>
+                </div>
+                                                              <div id="zt-position-19" class="span3">
+                  <div class="zt-box-inside">
+                    		<div class="moduletable  zt-icon-location">
+			<div class="omodule">
+				<div class="cmodule">
+											<h3 class="moduletitle"><span>Get in Touch</span></h3>
+										<div class="modulecontent">
+						
+
+<div class="custom"  >
+	<p>Company<span>Amnil Technology P. Ltd<br /></span>
+</p>
+<p>Nepal<span>Manbhawan, Lalitpur, Nepal<br /></span>
+</p>
+<p>Phone <span>+977 1 5531784, 980-2300149<br /></span>
+</p>
+<p>E-mail <span><script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy86830 = '&#105;nf&#111;' + '&#64;';
+ addy86830 = addy86830 + '&#97;mn&#105;lt&#101;ch' + '&#46;' + 'c&#111;m';
+ var addy_text86830 = '&#105;nf&#111;' + '&#64;' + '&#97;mn&#105;lt&#101;ch' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy86830 + '\'>');
+ document.write(addy_text86830);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span>
+</p></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		
+	
+                  </div>
+                </div>
+                                                              <div id="zt-position-20" class="span3">
+                  <div class="zt-box-inside">
+                    		<div class="moduletable  zt-icon-location">
+			<div class="omodule">
+				<div class="cmodule">
+											<h3 class="moduletitle"><span>Business Partners</span></h3>
+										<div class="modulecontent">
+						
+
+<div class="custom"  >
+	<p>Company<span>Spark Intell<br /></span></p>
+<p>USA<span>1008 Stonewall St, Suite C, Garland, TX 75043<br /></span></p>
+<p>Phone <span>(682) 367-9331<br /></span></p>
+<p>Website <span><a href="http://www.sparkintell.com">www.sparkintell.com</a><br /></span></p>
+<p>Email<span><script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy2837 = '&#105;nf&#111;' + '&#64;';
+ addy2837 = addy2837 + 'sp&#97;rk&#105;nt&#101;ll' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy2837 + '\'>');
+ document.write(addy2837);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span></p>
+</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		
+	
+                  </div>
+                </div>
+                                            <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+                  <!-- #ZT Userwrap7 -->
+      <!--Footer-->
+      <div id="zt-footer" class="clearfix pattern0">
+        <div class="container">
+          <div id="zt-footer-inner" class="row-fluid">
+            <div id="zt-footer-left" class="span6">
+                              
+              
+              <div id="zt-footer-copy">
+              Copyright (c) 2014. All Rights Reserved. Designed & Developed By AMNIL Technologies Pvt. Ltd.              </div>
+            </div>
+                                                <div id="zt-social" class="span4">
+              
+
+<div class="custom"  >
+	<p><a href="https://twitter.com/amniltech" title="twitter"><span>Twitter</span></a> <a class="facebook" href="https://www.facebook.com/amniltech" title="facebook"><span>Facebook</span></a> <a class="email" href="mailto:<script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy80204 = '&#105;nf&#111;' + '&#64;';
+ addy80204 = addy80204 + '&#97;mn&#105;lt&#101;ch' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy80204 + '\'>');
+ document.write(addy80204);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>" title="Email"><span>Email</span></a></p></div>
+
+            </div>
+                                    <div class="clearfix"></div>
+          </div>
+        </div>
+      </div>
+            <!--#Footer-->
+    </div>
+  </div>
+  
+      <a href="#top" id="gototop" class="no-click no-print"><span>Top of Page</span></a>
+  <script type="text/javascript">
+    $ZO2(document).ready(function(){
+      $ZO2(function () {
+      var scrollDiv = document.createElement("div");
+      $ZO2(scrollDiv).attr("id", "gototop").html("Back to top").appendTo("body");    
+      $ZO2(window).scroll(function () {
+          if ($ZO2(this).scrollTop() != 0) {
+            $ZO2("#gototop").fadeIn();
+          } else {
+            $ZO2("#gototop").fadeOut();
+          }
+        });
+        $ZO2("#gototop").click(function () {
+          $ZO2("body,html").animate({
+            scrollTop: 0
+          },
+          800);
+        });
+      });
+    });
+  </script>
+      <!-- Echo Footer Script -->
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24346638-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+						function jSelectShortcode(text) {
+							text = text.replace(/'/g, '"');
+							if(document.getElementById('jform_articletext') != null) {
+								jInsertEditorText(text, 'jform_articletext');
+							}
+							if(document.getElementById('text') != null) {
+								jInsertEditorText(text, 'text');
+							}
+							if(document.getElementById('jform_description') != null) {
+								jInsertEditorText(text, 'jform_description');
+							}
+							if(document.getElementById('jform_content') != null) {
+								jInsertEditorText(text, 'jform_content');
+							}
+							SqueezeBox.close();  
+						}
+				   </script></body>
+</html>
+
